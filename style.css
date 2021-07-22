@@ -3,8 +3,8 @@ html{
 }
 
 body {
-  background: -webkit-linear-gradient(200deg, #1600f2, #1600f2);
-  background: linear-gradient(205deg, #1600f2, #1600f2);
+  background: -webkit-linear-gradient(200deg, #008B8B, #008B8B);
+  background: linear-gradient(205deg, #008B8B, #008B8B);
   height: 100vh;
   margin: 0; 
   padding: 0;
@@ -47,7 +47,7 @@ body {
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #808080;
+    border: 2px solid #FF1493;
 }
 
 .button6:hover {
@@ -61,7 +61,7 @@ body {
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #808080;
+    border: 2px solid #FF1493;
 }
 
 .button5:hover {
@@ -75,7 +75,7 @@ body {
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #808080;
+    border: 2px solid #FF1493;
 }
 
 .button4:hover {
@@ -89,7 +89,7 @@ body {
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #808080;
+    border: 2px solid #FF1493;
 }
 
 .button3:hover {
@@ -103,7 +103,7 @@ body {
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #808080;
+    border: 2px solid #FF1493;
 }
 
 .button2:hover {
@@ -117,7 +117,7 @@ body {
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #808080;
+    border: 2px solid #FF1493;
 }
 
 .button1:hover {
@@ -169,7 +169,7 @@ a.bttn:focus {
   width: 270px;
   font-weight: bold;
   padding: 5px 0px;
-  border: 3px solid #808080;
+  border: 3px solid #FF1493;
   border-radius: 1px;
   position: relative;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.1);
@@ -184,7 +184,7 @@ a.bttn:focus {
   bottom: 0;
   opacity: 0;
   content: '';
-  background-color: #808080;
+  background-color: #FF1493;
   z-index: -2;
 }
 .bttn:hover:before {
